@@ -4,6 +4,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/product-service/product-service/data/
+/inventory-service/inventory-service/mysql_data/
+/order-service/order-service/mysql_data/
 
 ### STS ###
 .apt_generated
@@ -34,6 +37,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/product-service/product-service/data/
-/inventory-service/inventory-service/mysql_data/
-/order-service/order-service/mysql_data/

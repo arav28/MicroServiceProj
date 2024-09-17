@@ -36,3 +36,4 @@ build/
 .vscode/
 /product-service/product-service/data/
 /inventory-service/inventory-service/mysql_data/
+/order-service/order-service/mysql_data/

@@ -35,4 +35,4 @@ build/
 ### VS Code ###
 .vscode/
 /product-service/product-service/data/
-/inventory-service/inventory-service/mysql_data
+/inventory-service/inventory-service/mysql_data/
